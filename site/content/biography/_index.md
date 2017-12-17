@@ -1,6 +1,5 @@
 ---
 title: BIOGRAPHY NEW PAGE 2
-type: biography
 image: /img/products-jumbotron.jpg
 heading: What we offer
 description: >-
@@ -9,6 +8,8 @@ description: >-
   roasting and brewing seriously and we’re glad to pass that knowledge to
   anyone.
 
----
 
+  ![Keeheon Nam (Photo by Derrick Brady)](/img/keeheon nam by derrick brady
+  emf.jpg)
+---
 
