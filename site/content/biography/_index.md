@@ -1,7 +1,7 @@
 ---
 title: Biography
 image: /img/about-jumbotron.jpg
-biography:
+blurbs:
   - heading: Shade-grown coffee
     imageUrl: /img/about-shade-grown.jpg
     text: >
