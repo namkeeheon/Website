@@ -3,8 +3,6 @@ title: MEDIA NEW PAGE
 image: /img/namroud-gorguis-253765.jpg
 blurbs:
   - embedHtml: >-
-      <div style
-
       <iframe width="100%" height="100%"
       src="https://www.youtube.com/embed/Tau5kHRpRyY?rel=0&amp;showinfo=0"
       frameborder="0" gesture="media" allow="encrypted-media"
