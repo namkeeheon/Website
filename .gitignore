@@ -3,3 +3,4 @@ dist/
 /npm-debug.log
 yarn-error.log
 site/.DS_Store
+site/static/img/.DS_Store
