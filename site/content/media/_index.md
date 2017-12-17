@@ -1,5 +1,5 @@
 ---
-title: MEDIA NEW PAGE
+title: Media
 image: /img/namroud-gorguis-253765.jpg
 blurbs:
   - embedHtml: >-
