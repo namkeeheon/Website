@@ -10,9 +10,11 @@ blurbs:
     heading: 'Brahms: Clarinet Sonata in F minor, Op. 120, No. 1 - Allegro appassionato '
     text: |-
       Keeheon Nam, clarinet
+
       Amy Dorfman, piano
 
       October 21, 2017
+
       Blair School of Music
   - embedHtml: /img/about-single-origin.jpg
     heading: Single origin
