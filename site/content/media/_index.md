@@ -7,12 +7,13 @@ blurbs:
       src="https://www.youtube.com/embed/Tau5kHRpRyY?rel=0&amp;showinfo=0"
       frameborder="0" gesture="media" allow="encrypted-media"
       allowfullscreen></iframe>
-    heading: Shade-grown coffee
-    text: >
-      Coffee is a small tree or shrub that grows in the forest understory in its
-      wild form, and traditionally was grown commercially under other trees that
-      provided shade. The forest-like structure of shade coffee farms provides
-      habitat for a great number of migratory and resident species.
+    heading: 'Brahms: Clarinet Sonata in F minor, Op. 120, No. 1 - Allegro appassionato '
+    text: |-
+      Keeheon Nam, clarinet
+      Amy Dorfman, piano
+
+      October 21, 2017
+      Blair School of Music
   - embedHtml: /img/about-single-origin.jpg
     heading: Single origin
     text: >
