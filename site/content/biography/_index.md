@@ -4,7 +4,7 @@ image: /img/vanderbilt.jpeg
 heading: 'Keeheon Nam, clarinet'
 description: >-
   <img style="float:right; padding-left: 20px;" width="45%" src="/img/keeheon
-  nam by derrick brady emf.jpeg)" />
+  nam by derrick brady emf with credit.png" />
 
 
   From Eden Prairie, Minnesota, Keeheon Nam is a fourth-year student at
