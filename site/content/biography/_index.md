@@ -6,6 +6,7 @@ description: >-
   <img style="float:right; padding-left: 20px;" width="45%" src="/img/keeheon
   nam by derrick brady emf.jpeg)" />
 
+
   From Eden Prairie, Minnesota, Keeheon Nam is a fourth-year student at
   Vanderbilt University’s Blair School of Music and is a Cornelius Vanderbilt
   Scholar. 
