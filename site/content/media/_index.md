@@ -13,9 +13,9 @@ blurbs:
 
       Amy Dorfman, piano
 
-      October 21, 2017
+      _October 21, 2017_
 
-      Blair School of Music
+      _Blair School of Music_
   - embedHtml: >-
       <iframe width="560" height="315"
       src="https://www.youtube.com/embed/Pf7gRS8TINA?rel=0" frameborder="0"
@@ -38,9 +38,9 @@ blurbs:
 
       Robin Fountain, conductor
 
-      February 25, 2016
+      _February 25, 2016_
 
-      Blair School of Music
+      _Blair School of Music_
   - embedHtml: /img/about-sustainable-farming.jpg
     heading: Sustainable farming
     text: >
