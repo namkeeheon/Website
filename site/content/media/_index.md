@@ -42,18 +42,24 @@ blurbs:
 
       _Blair School of Music_
   - embedHtml: /img/about-sustainable-farming.jpg
-    heading: Sustainable farming
-    text: >
-      Sustainable agriculture is farming in sustainable ways based on an
-      understanding of ecosystem services, the study of relationships between
-      organisms and their environment. What grows where and how it is grown are
-      a matter of choice and careful consideration for nature and communities.
-  - embedHtml: /img/about-direct-sourcing.jpg
-    heading: Direct sourcing
-    text: >
-      We want to truly empower the communities that bring amazing coffee to you.
-      That’s why we reinvest 20% of our profits into farms, local businesses and
-      schools everywhere our coffee is grown. You can see the communities grow
-      and learn more about coffee farming on our blog.
+    heading: 'Muczynski: Wind Quintet'
+    text: |-
+      **Aeolus Wind Quintet**
+
+      Ramakrishnan Kumaran, flute
+
+      Jonathan Hearn, oboe
+
+      Keeheon Nam, clarinet
+
+      Andrew Sledge, bassoon
+
+      Sophia Chen, horn
+
+
+
+      December 8, 2015
+
+      Blair School of Music
 ---
 
