@@ -41,7 +41,10 @@ blurbs:
       _February 25, 2016_
 
       _Blair School of Music_
-  - embedHtml: /img/about-sustainable-farming.jpg
+  - embedHtml: >-
+      <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/QmITBQfOwis" frameborder="0"
+      allow="autoplay; encrypted-media" allowfullscreen></iframe>
     heading: 'Muczynski: Wind Quintet'
     text: |-
       **Aeolus Wind Quintet**
