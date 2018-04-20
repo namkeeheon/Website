@@ -11,16 +11,16 @@ description: >-
   University’s Blair School of Music and was a Cornelius Vanderbilt Scholar. 
 
 
-  Keeheon has performed with the Nashville Symphony and was a member of the
-  Nashville Sinfonietta under the invitation of Maestro Dean Whiteside for two
-  years, with one year serving as the principal clarinetist. He has also enjoyed
-  many performances with the Vanderbilt Orchestra and Wind Symphony, where he
-  has held principal positions in both ensembles. He has been featured in
-  student showcases for both solo and chamber repertoire. He was a two time
-  finalist for the Vanderbilt Concerto Competition and was a winner of the 2017
-  Eastern Music Festival Concerto Competition. Most recently, he was named the
-  winner of the 2017 Tennessee MTNA Young Artists Woodwind Competition and was
-  named Alternate for the 2018 MTNA Young Artists Division Competition. 
+  Keeheon has performed with the Nashville Symphony and was the principal
+  clarinetist of the Nashville Sinfonietta under the invitation of Maestro Dean
+  Whiteside. He has also enjoyed many performances with the Vanderbilt Orchestra
+  and Wind Symphony, where he has held principal positions in both ensembles. He
+  has been featured in student showcases for both solo and chamber repertoire.
+  He was a two time finalist for the Vanderbilt Concerto Competition and was a
+  winner of the 2017 Eastern Music Festival Concerto Competition. Most recently,
+  he was named the winner of the 2017 Tennessee MTNA Young Artists Woodwind
+  Competition and was named Alternate for the 2018 MTNA Young Artists Division
+  Competition. 
 
 
   Keeheon has received many awards and honors during his time at Blair,
