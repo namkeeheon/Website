@@ -1,6 +1,6 @@
 ---
 title: Biography
-image: /img/vanderbilt.jpeg
+image: /img/jonas-jacobsson-545909-unsplash.jpg
 heading: 'Keeheon Nam, clarinet'
 description: >-
   <img style="float:right; padding-left: 20px;" width="45%" src="/img/keeheon
