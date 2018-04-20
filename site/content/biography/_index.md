@@ -24,7 +24,7 @@ description: >-
 
 
   Keeheon has received many awards and honors during his time at Blair,
-  receiving the 2018 Howard "Zeke" Nicar Award, the 2017 Andrew Sang Han
+  receiving the 2018 L. Howard "Zeke" Nicar Award, the 2017 Andrew Sang Han
   Memorial Prize, and the 2016 Elliot and Ailsa Newman Woodwind Prize. He was a
   2017 recipient of the Vanderbilt Summer Grant Stipend and a 2016 recipient of
   the Heard Summer Travel Award.
