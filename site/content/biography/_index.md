@@ -11,21 +11,23 @@ description: >-
   University’s Blair School of Music and was a Cornelius Vanderbilt Scholar. 
 
 
-  Keeheon served as principal clarinet in the Nashville Sinfonietta under the
-  invitation of Maestro Dean Whiteside. He has also enjoyed many performances
-  with the Vanderbilt Orchestra and Wind Symphony, where he has held principal
-  positions in both ensembles. He has been featured in student showcases for
-  both solo and chamber repertoire. He was a two time finalist for the
-  Vanderbilt Concerto Competition and was a winner of the 2017 Eastern Music
-  Festival Concerto Competition. Most recently, he was named the winner of the
-  2017 Tennessee MTNA Young Artists Woodwind Competition and was named Alternate
-  for the 2018 MTNA Young Artists Division Competition. 
+  Keeheon has performed with the Nashville Symphony and was a member of the
+  Nashville Sinfonietta under the invitation of Maestro Dean Whiteside for two
+  years, with one year serving as the principal clarinetist. He has also enjoyed
+  many performances with the Vanderbilt Orchestra and Wind Symphony, where he
+  has held principal positions in both ensembles. He has been featured in
+  student showcases for both solo and chamber repertoire. He was a two time
+  finalist for the Vanderbilt Concerto Competition and was a winner of the 2017
+  Eastern Music Festival Concerto Competition. Most recently, he was named the
+  winner of the 2017 Tennessee MTNA Young Artists Woodwind Competition and was
+  named Alternate for the 2018 MTNA Young Artists Division Competition. 
 
 
   Keeheon has received many awards and honors during his time at Blair,
   receiving the 2018 Howard "Zeke" Nicar Award, the 2017 Andrew Sang Han
-  Memorial Prize, the 2016 Elliot and Ailsa Newman Woodwind Prize, and was a
-  2016 recipient of the Heard Summer Travel Award.
+  Memorial Prize, and the 2016 Elliot and Ailsa Newman Woodwind Prize. He was a
+  2017 recipient of the Vanderbilt Summer Grant Stipend and a 2016 recipient of
+  the Heard Summer Travel Award.
 
 
   He has been a featured solo artist on Nashville’s Classical 91.1 WFCL “Live in
@@ -44,11 +46,24 @@ description: >-
   program in Aix-en-Provence, France.
 
 
+  During his undergraduate studies, Keeheon was involved in the Vanderbilt
+  Student Government and was a member of the Vanderbilt Student Government
+  Undergraduate Senate, where he served as the Academic Senator for the Blair
+  School of music, and most recently served as the President of the Blair
+  Student Council. 
+
+
   In the Fall of 2018, Keeheon will move to New York City to pursue his Master's
   in Music Performance at The Juilliard School and study with Jon Manasse. 
 
 
   Keeheon’s major teachers have been Bil Jackson, James Zimmermann, Burt Hara,
   and Alexander Fiterstein.
+
+
+  As a conductor, Keeheon has studied with Maestro Robin Fountain, director of
+  the Vanderbilt Orchestra and Dr. Elizabeth Jackson Kirchhoff. During his
+  senior year of high school, Keeheon reinstated the Eden Prairie High School
+  Full Orchestra and conducted the inaugural concert after a 3-year hiatus.
 ---
 
