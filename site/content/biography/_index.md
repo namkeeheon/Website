@@ -23,18 +23,17 @@ description: >-
 
 
   Keeheon has received many awards and honors during his time at Blair,
-  receiving the 2017 Andrew Sang Han Memorial Prize, the 2016 Elliot and Ailsa
-  Newman Woodwind Prize, and was a 2016 recipient of the Heard Summer Travel
-  Award.
+  receiving the 2018 Howard "Zeke" Nicar Award, the 2017 Andrew Sang Han
+  Memorial Prize, the 2016 Elliot and Ailsa Newman Woodwind Prize, and was a
+  2016 recipient of the Heard Summer Travel Award.
 
 
-  During two summers as a student at the Birch Creek Summer Symphony Orchestra,
-  Keeheon won the 2012 Concerto Competition. He has also been a featured solo
-  artist on Nashville’s Classical 91.1 WFCL “Live in Studio C” program and has
-  also been heard on Minneapolis’ 99.5 KSJN and Door County’s 93.9 WDOR. In
-  February of 2016, he was asked to be a guest clarinetist with the Blair
-  Faculty Woodwind Quintet as featured soloists in the world premiere of Michael
-  Alec Rose’s Wind Ode for Wind Quintet, Strings, and Percussion.
+  He has been a featured solo artist on Nashville’s Classical 91.1 WFCL “Live in
+  Studio C” program and has also been heard on Minneapolis’ 99.5 KSJN and Door
+  County’s 93.9 WDOR. In February of 2016, he was asked to be a guest
+  clarinetist with the Blair Faculty Woodwind Quintet as featured soloists in
+  the world premiere of Michael Alec Rose’s Wind Ode for Wind Quintet, Strings,
+  and Percussion.
 
 
   Keeheon has participated in many masterclasses, notably in the masterclasses
