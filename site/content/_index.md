@@ -5,7 +5,7 @@ image: /img/intro.jpg
 blurb:
   heading: Welcome
   text: >-
-    Keeheon is an avid teacher, performer, and conductor residing in Nashville,
+    Keeheon is an avid performer, teacher, and conductor residing in Nashville,
     Tennessee.
 ---
 
