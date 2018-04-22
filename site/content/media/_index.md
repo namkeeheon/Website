@@ -9,12 +9,10 @@ blurbs:
       allowfullscreen></iframe>
     heading: 'Brahms: Clarinet Sonata in F minor, Op. 120, No. 1 - Allegro appassionato '
     text: |-
-      Keeheon Nam, clarinet
-
+      Keeheon Nam, clarinet\
       Amy Dorfman, piano
 
-      _October 21, 2017_
-
+      _October 21, 2017_\
       _Blair School of Music_
   - embedHtml: >-
       <iframe width="560" height="315"
@@ -22,24 +20,16 @@ blurbs:
       allow="autoplay; encrypted-media" allowfullscreen></iframe>
     heading: 'Rose: Wind Ode for Woodwind Quintet, Strings, and Percussion'
     text: |-
-      **Blair Woodwind Quintet**
-
-      Philip Dikeman, flute
-
-      Jared Hauser, oboe
-
-      Keeheon Nam, guest clarinetist
-
-      Peter Kolkay, bassoon
-
+      **Blair Woodwind Quintet**\
+      Philip Dikeman, flute\
+      Jared Hauser, oboe\
+      Keeheon Nam, guest clarinetist\
+      Peter Kolkay, bassoon\
       Leslie Norton, horn
 
-      Vanderbilt Orchestra
-
-      Robin Fountain, conductor
-
-      _February 25, 2016_
-
+      Vanderbilt Orchestra\
+      Robin Fountain, conductor\
+      _February 25, 2016_\
       _Blair School of Music_
   - embedHtml: >-
       <iframe width="560" height="315"
@@ -47,22 +37,14 @@ blurbs:
       allow="autoplay; encrypted-media" allowfullscreen></iframe>
     heading: 'Muczynski: Wind Quintet'
     text: |-
-      **Aeolus Wind Quintet**
-
-      Ramakrishnan Kumaran, flute
-
-      Jonathan Hearn, oboe
-
-      Keeheon Nam, clarinet
-
-      Andrew Sledge, bassoon
-
+      **Aeolus Wind Quintet**\
+      Ramakrishnan Kumaran, flute\
+      Jonathan Hearn, oboe\
+      Keeheon Nam, clarinet\
+      Andrew Sledge, bassoon\
       Sophia Chen, horn
 
-
-
-      December 8, 2015
-
+      December 8, 2015\
       Blair School of Music
 ---
 
