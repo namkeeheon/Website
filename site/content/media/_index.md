@@ -45,6 +45,6 @@ blurbs:
       Sophia Chen, horn
 
       December 8, 2015\
-      Blair School of Music
+      _Blair School of Music_
 ---
 
