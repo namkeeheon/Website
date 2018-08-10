@@ -7,8 +7,9 @@ description: >-
   nam by derrick brady emf with credit.png" />
 
 
-  From Eden Prairie, Minnesota, Keeheon Nam is a graduate of  Vanderbilt
-  University’s Blair School of Music and was a Cornelius Vanderbilt Scholar. 
+  From Eden Prairie, Minnesota, Keeheon Nam is a masters student at The
+  Juilliard School. He is a graduate of  Vanderbilt University’s Blair School of
+  Music and was a Cornelius Vanderbilt Scholar.  
 
 
   Keeheon has performed with the Nashville Symphony and was the principal
@@ -17,9 +18,9 @@ description: >-
   and Wind Symphony, where he has held principal positions in both ensembles. He
   has been featured in student showcases for both solo and chamber repertoire.
   He was a two time finalist for the Vanderbilt Concerto Competition and was a
-  winner of the 2017 Eastern Music Festival Concerto Competition. Most recently,
-  he was named the winner of the 2017 Tennessee MTNA Young Artists Woodwind
-  Competition and was named Alternate for the 2018 MTNA Young Artists Division
+  winner of the 2017 Eastern Music Festival Concerto Competition. He was named
+  the winner of the 2017 Tennessee MTNA Young Artists Woodwind Competition and
+  was named Alternate for the 2018 MTNA Young Artists Southern Division
   Competition. 
 
 
@@ -40,25 +41,17 @@ description: >-
 
   Keeheon has participated in many masterclasses, notably in the masterclasses
   of David Shifrin, Jon Manasse, Fergus McWilliam, Ricardo Morales, Mark Nuccio,
-  Ari Streisfeld, and Walter Seyfarth. He was selected to be a participant in
-  the 2016 Hidden Valley Institute of Music’s Masterclass Series with Mark
-  Nuccio and was selected to participate in the 2017 Vanderbilt Music Académie
-  program in Aix-en-Provence, France.
+  Ari Streisfeld, and Walter Seyfarth. 
 
 
   During his undergraduate studies, Keeheon was involved in the Vanderbilt
-  Student Government and was a member of the Vanderbilt Student Government
-  Undergraduate Senate, where he served as the Academic Senator for the Blair
-  School of music, and most recently served as the President of the Blair
-  Student Council. 
+  Student Government and was a member of the VSG Undergraduate Senate, where he
+  served as the Academic Senator for the Blair School of music, and most
+  recently served as the President of the Blair Student Council. 
 
 
-  In the Fall of 2018, Keeheon will move to New York City to pursue his Master's
-  in Music Performance at The Juilliard School and study with Jon Manasse. 
-
-
-  Keeheon’s major teachers have been Bil Jackson, James Zimmermann, Burt Hara,
-  and Alexander Fiterstein.
+  Keeheon’s major teachers have been Jon Manasse, Bil Jackson, James Zimmermann,
+  Burt Hara, and Alexander Fiterstein.
 
 
   As a conductor, Keeheon has studied with Maestro Robin Fountain, director of
